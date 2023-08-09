@@ -52,7 +52,7 @@
                 <?php if(isset($_GET['login']) && $_GET['login'] == 'erro2'){?>
 
                 <div class="text-danger">
-                  Por favor, faça login antes de acessar as páginas protegidas
+                  Por favor, faça login para acessar
                 </div>
 
                 <?php } ?>
